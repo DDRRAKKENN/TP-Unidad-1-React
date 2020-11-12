@@ -1,5 +1,9 @@
+/* eslint-disable react/jsx-pascal-case */
 import logo from './logo.svg';
 import './App.css';
+import App_C from "./App_C";
+
+
 
 function App() {
   return (
@@ -7,7 +11,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          usando algo de codigo <code>src/App.js</code> and save to reload.
+        </p>
+
+        <p>
+        <App_C/>
         </p>
         <a
           className="App-link"
