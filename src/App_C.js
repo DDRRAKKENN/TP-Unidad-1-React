@@ -9,7 +9,7 @@ class App_C extends Component{
             <br>
 
             </br>
-            <label>Apellido </label>
+            <label>Apellidos</label>
             <input type="text" placeholder="Ingrese su Apellido" />
             <br>
                 
