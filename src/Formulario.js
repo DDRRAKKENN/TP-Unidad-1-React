@@ -12,8 +12,6 @@ class Formulario extends Component{
             </br>
             <label>Email <input type="email"  placeholder="Ingrese correo electronico" /></label>
         </div>)
-                 
     };
 }
-
 export default Formulario;
