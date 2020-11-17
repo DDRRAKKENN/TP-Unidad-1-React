@@ -1,5 +1,10 @@
 import React, {Component} from "react";
 
+/*Componentes que van dentro de App.js 
+    1-Formuladio.js
+    2-Validacion.js
+*/    
+
 class Formulario extends Component{
     render(){
         return(
