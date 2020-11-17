@@ -8,17 +8,11 @@ import Validacion from "./Validacion"
 class App extends Component{
   render(){
     return(
-      <div className="App">
-      <header className="App-header">
-        <p>
-          Trabajo practico numero 1
-        </p>
-        <p>
+      <form>
         <Formulario/>
+        <br/>
         <Validacion/>
-        </p>
-      </header>
-    </div>
+      </form>
     )
   }
 }

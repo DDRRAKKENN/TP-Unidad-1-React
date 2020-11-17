@@ -1,8 +1,8 @@
 import React, {Component} from "react";
 
 /*Componentes que van dentro de App.js 
-    1-Formuladio.js
-    2-Validacion.js
+1-Formulario.js
+2-Validacion.js
 */
 
 class Validacion extends Component{
@@ -15,8 +15,6 @@ class Validacion extends Component{
                 <br></br>
                 <button onClick="submit">Confirmar</button>
             </div>)
-                 
     };
 }
-
 export default Validacion;
