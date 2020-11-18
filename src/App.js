@@ -1,6 +1,5 @@
 import React, {Component} from "react";
 import Registro from "./Registro";
-import "./App.css";
 
 //App principal que va renderizarse en index.js
 
