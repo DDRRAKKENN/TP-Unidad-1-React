@@ -1,7 +1,7 @@
 import React, {Component} from "react";
+import "./Registro.css";
 import Datos from "./Datos";
 import Validacion from "./Validacion";
-import "./Registro.css";
 
 /*Componentes que van dentro de Registro.js 
 1-Datos.js
