@@ -1,8 +1,10 @@
 import React, {Component} from "react";
 
-/*Componentes que van dentro de App.js 
-1-Formulario.js
+/*Componentes que van dentro de Registro.js 
+1-Datos.js
 2-Validacion.js
+
+Luego enviar Registro.js a App.js
 */
 
 class Validacion extends Component{
@@ -14,7 +16,8 @@ class Validacion extends Component{
                 <label >Repita constraseña <input type="password" /> </label>
                 <br></br>
                 <button onClick="submit">Confirmar</button>
-            </div>)
+            </div>
+        )
     };
 }
 export default Validacion;

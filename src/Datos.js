@@ -1,11 +1,13 @@
 import React, {Component} from "react";
 
-/*Componentes que van dentro de App.js 
-1-Formulario.js
+/*Componentes que van dentro de Registro.js 
+1-Datos.js
 2-Validacion.js
-*/    
 
-class Formulario extends Component{
+Luego enviar Registro.js a App.js
+*/  
+
+class Datos extends Component{
     render(){
         return(
             <div>
@@ -16,7 +18,8 @@ class Formulario extends Component{
                 <br> 
                 </br>
                 <label>Email <input type="email"  placeholder="Ingrese correo electronico" /></label>
-            </div>)
+            </div>
+        )
     };
 }
-export default Formulario;
+export default Datos;
