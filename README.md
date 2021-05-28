@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-*probando cosas nuevas!*
+*probando cosas nuevas! espero que esto tambien funcione*
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
